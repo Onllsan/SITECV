@@ -176,7 +176,7 @@ h2 {
 
  
 .button1{
-  background-color: #c85000;
+  background-color: #FF4500;
   align-items: center;
   background-clip: padding-box;
   border: 1px solid transparent;
@@ -206,7 +206,7 @@ h2 {
 }
 
 .button1:active {
-  background-color: #c85000;
+  background-color: #FF4500;
   box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
   transform: translateY(0);
 }
@@ -258,7 +258,7 @@ h2 {
 }
 
 .fa{
-  color: #c85000;
+  color: #FF4500;
 }
 
 @media (max-width:768px){
